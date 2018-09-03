@@ -13,5 +13,5 @@ I cannot provide the STL geometry because it was created for my research project
 
 To group the files from multiple processors generated in Output, the python script groupPlanes.py is provided.
 
-I took matrix.hpp and nvector.hpp files from Makram Kamaleddine on Github.
+I took matrix.hpp, nvector.hpp, and parts of ops.hpp files from Makram Kamaleddine on Github.
 Happy coding!
